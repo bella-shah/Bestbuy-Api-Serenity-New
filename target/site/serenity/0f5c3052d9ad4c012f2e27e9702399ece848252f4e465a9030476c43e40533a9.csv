@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Utilities CURD test with steps","This will get all HealthCheck","SUCCESS","2022-06-06T23:30:02.295+01:00[Europe/London]","0.0","0.04"
+"Utilities CURD test with steps","This will get all version","SUCCESS","2022-06-06T23:30:02.336+01:00[Europe/London]","0.0","0.03"

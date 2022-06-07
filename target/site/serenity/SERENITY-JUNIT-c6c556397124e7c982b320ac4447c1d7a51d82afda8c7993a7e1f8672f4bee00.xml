@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.bestbuyapi.storesinfo.StoresCURDTestWithSteps" skipped="0" tests="1" time="2.0" timestamp="2022-06-07T09:54:42.417+01:00[Europe/London]"><testcase classname="com.bestbuyapi.storesinfo.StoresCURDTestWithSteps" name="Delete the stores and verify if the stores is deleted!"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.bestbuyapi.storesinfo.StoresCURDTestWithSteps.test04(StoresCURDTestWithSteps.java:65)&#13;
+</system-err></testcase></testsuite>

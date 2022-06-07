@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Services CURD test with steps","This will create a new service","SUCCESS","2022-06-06T23:30:01.307+01:00[Europe/London]","0.0","0.05"
+"Services CURD test with steps","Verify if the service was added","SUCCESS","2022-06-06T23:30:01.360+01:00[Europe/London]","0.0","0.05"
+"Services CURD test with steps","Update the service information and verify the updated information","SUCCESS","2022-06-06T23:30:01.415+01:00[Europe/London]","0.0","0.13"
+"Services CURD test with steps","Delete the service and verify if the service is deleted!","SUCCESS","2022-06-06T23:30:01.550+01:00[Europe/London]","0.0","0.09"

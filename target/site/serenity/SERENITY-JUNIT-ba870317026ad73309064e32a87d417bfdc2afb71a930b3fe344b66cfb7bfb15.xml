@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.bestbuyapi.categoriesinfo.CategoriesCURDTestWithSteps" skipped="0" tests="1" time="2.51" timestamp="2022-06-07T09:46:16.201+01:00[Europe/London]"><testcase classname="com.bestbuyapi.categoriesinfo.CategoriesCURDTestWithSteps" name="Verify if the category was created"/></testsuite>

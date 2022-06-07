@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.bestbuyapi.productsinfo.ProductsCURDTestWithSteps" skipped="0" tests="1" time="3.72" timestamp="2022-06-07T09:51:24.753+01:00[Europe/London]"><testcase classname="com.bestbuyapi.productsinfo.ProductsCURDTestWithSteps" name="Verify if the product was added to the application"/></testsuite>

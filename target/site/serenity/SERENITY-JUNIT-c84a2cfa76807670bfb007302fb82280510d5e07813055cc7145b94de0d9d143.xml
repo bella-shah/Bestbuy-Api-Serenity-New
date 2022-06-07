@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.bestbuyapi.storesinfo.StoresCURDTestWithSteps" skipped="0" tests="1" time="2.34" timestamp="2022-06-07T09:54:04.275+01:00[Europe/London]"><testcase classname="com.bestbuyapi.storesinfo.StoresCURDTestWithSteps" name="This will create a new Store"/></testsuite>
